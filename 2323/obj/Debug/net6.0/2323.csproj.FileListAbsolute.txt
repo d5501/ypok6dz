@@ -1,0 +1,15 @@
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\bin\Debug\net6.0\2323.exe
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\bin\Debug\net6.0\2323.deps.json
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\bin\Debug\net6.0\2323.runtimeconfig.json
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\bin\Debug\net6.0\2323.dll
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\bin\Debug\net6.0\2323.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\2323.csproj.AssemblyReference.cache
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\2323.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\2323.AssemblyInfoInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\2323.AssemblyInfo.cs
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\2323.csproj.CoreCompileInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\2323.dll
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\refint\2323.dll
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\2323.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\2323.genruntimeconfig.cache
+C:\Users\dimas\OneDrive\Рабочий стол\работа в c#\Домашне задание 06.07\ypok6dz\2323\obj\Debug\net6.0\ref\2323.dll
